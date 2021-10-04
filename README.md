@@ -1,16 +1,27 @@
-### Hi there 👋
+## Bem-Vindo(a)!
 
-<!--
-**vitoria-isabela/vitoria-isabela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Ciência da Computação • UFJF
+- 🌱 Aprendendo de C#
+- 😄 Pronouns: She/Her
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <a href="https://github.com/vitoria-isabela">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoria-isabela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</a>
+  
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-isabela&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+  
+</div>
+  
+<div>
+  </br>
+  <a href="https://instagram.com/v.isa.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-isabela-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+  
+![Snake animation](https://github.com/vitoria-isabela/vitoria-isabela/blob/output/github-contribution-grid-snake.svg)
