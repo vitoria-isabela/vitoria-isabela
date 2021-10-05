@@ -19,5 +19,13 @@ Sobre mim:
   <a href="https://instagram.com/v.isa.o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-isabela-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+      
+
+       WakaTime Dev Metrics
+      
   
 ![Snake animation](https://github.com/vitoria-isabela/vitoria-isabela/blob/output/github-contribution-grid-snake.svg)
