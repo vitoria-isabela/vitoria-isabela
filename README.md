@@ -3,7 +3,7 @@
 Sobre mim:
 
 - 🔭 Ciência da Computação • UFJF
-- 🌱 Aprendendo de C#
+- 🌱 Aprendendo C#
 - 😄 Pronouns: She/Her
 <br/>
 
