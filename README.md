@@ -25,7 +25,7 @@ Sobre mim:
  ![Snake animation](https://github.com/vitoria-isabela/vitoria-isabela/blob/output/github-contribution-grid-snake.svg)
  ##
  <div>
-  "Faça o teu melhor, nas condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"
+  "Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"
 
 ~Mário Sérgio Cortella
  </div>
