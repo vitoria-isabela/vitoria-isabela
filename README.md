@@ -1,5 +1,8 @@
-## Bem-Vindo(a)!
-
+## Welcome! :wave:
+### About me:
+- Brazilian :brazil:
+- Undergraduate in Computer Science - UFJF :computer::books:
+- Software development intern at Thomson Reuters Brazil  :dart::computer:
 ##
 <br/>
 
@@ -19,7 +22,7 @@
  ![Snake animation](https://github.com/vitoria-isabela/vitoria-isabela/blob/output/github-contribution-grid-snake.svg)
  ##
  <div>
-  "Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"
+  "Do your best, in the condition you have, while you don't have better conditions, to do even better!" :dart:
 
 ~Mário Sérgio Cortella
  </div>
