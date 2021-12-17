@@ -1,11 +1,5 @@
 ## Bem-Vindo(a)!
 
-Sobre mim:
-
-- 🔭 Ciência da Computação • UFJF 
-- 🚀 Software Development Intern @Thomson Reuters
--  😄 Pronouns: She/Her
-
 ##
 <br/>
 
