@@ -2,7 +2,7 @@
 ### About me:
 - Brazilian :brazil:
 - Undergraduate in Computer Science - UFJF :computer::books:
-- Software Development Intern :dart::computer:
+- Software Development Intern - Thomson Reuters :dart::computer:
 ##
 <br/>
 
