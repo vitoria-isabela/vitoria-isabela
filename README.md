@@ -9,11 +9,15 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <div>
+   
   <a href="https://github.com/vitoria-isabela">
+    <!---
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitoria-isabela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-isabela&layout=compact&langs_count=7&theme=tokyonight"/>  
  </div>
 
+  -->
 <div>
     </br>
     <a href="https://www.linkedin.com/in/vit%C3%B3ria-isabela-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
