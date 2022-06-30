@@ -6,6 +6,9 @@
 ##
 <br/>
 
+![](./profile-3d-contrib/profile-night-view.svg)
+<a href="https://github.com/vitoria-isabela" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=nightfury-dev&label=Profile%20views&color=129e00&style=plastic" alt="nightfury-dev" /> </p> 
+
 <div>
   <a href="https://github.com/vitoria-isabela">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vitoria-isabela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
